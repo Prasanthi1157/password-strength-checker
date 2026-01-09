@@ -1,3 +1,4 @@
+![WhatsApp Image 2026-01-09 at 2 39 18 PM](https://github.com/user-attachments/assets/4e2af277-5b7d-40b8-bcba-8bc3171b2922)
 # password-strength-checker
 Password checker documentation and files
 def check_password_strength(password):
